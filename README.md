@@ -145,3 +145,10 @@ When the database is empty, the backend creates two accounts on startup:
 - Prefer small, focused changes.
 - Include reproduction steps and environment details in issues.
 - Run the backend and frontend locally before opening a pull request.
+
+
+  ---
+
+If you have suggestions, ideas, or notice something that can be improved, feel free to open an issue or start a discussion.  
+I’m always interested in refining tools like this based on real-world usage and feedback.
+
